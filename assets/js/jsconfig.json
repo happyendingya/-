@@ -1,0 +1,8 @@
+// 使用jQ自动提醒代码
+{
+    "typeAcquisition": {
+        "include": [
+            "jquery"
+        ]
+    }
+}
